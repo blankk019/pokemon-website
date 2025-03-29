@@ -1,0 +1,33 @@
+img{
+    height:     300px;
+    width: 300px;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 5%;
+    display: flex;
+    border: none;
+    
+}
+
+label{
+    margin-left: 33%;
+    margin-top: 10%;
+    font-size: 2.5em;
+    font-family: 'Freckle Face', cursive;
+
+
+}
+
+input{
+    margin-top: 10%;
+    font-size: 1.5rem;
+}
+
+body{
+    background-image: url("./pokemon-landscape-yf5odhgkds0n53yl.jpg");
+}
+
+button{
+    font-size: large;
+    border-radius: 10px;
+}
